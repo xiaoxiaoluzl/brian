@@ -35,4 +35,4 @@ trace.plot(refresh=10 * ms, showlast=200 * ms)
 run(1 * second)
 
 ioff() # switch interactive mode off
-show() # and wait for user to close the window before shutting down
+show() 
